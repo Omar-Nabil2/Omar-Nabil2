@@ -15,7 +15,8 @@
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, Angular, and ASP.NET Core, or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-
+- 🔑 I used to have another GitHub account, but I no longer have access to its password:  
+  👉 https://github.com/Omar-Nabil
 
 ### Connect with Me :
 
