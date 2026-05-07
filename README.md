@@ -1,38 +1,41 @@
-
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
-  Welcome to Omar Nabil's profile!
+  Welcome to Omar Nabil's profile! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;ASP.NET%20Core%20%26%20Angular;GSoC%20'24%20Contributor&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  </a>
 </p> 
 
-- 🏢 I'm a Software student at the faculty of engineering university of tanta
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, Angular, and ASP.NET Core, or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 🔑 I used to have another GitHub account, but I no longer have access to its password:  
-  👉 https://github.com/Omar-Nabil
+- [cite_start]🎓 **Education:** Computer Engineering graduate from Tanta University [cite: 12, 13] [cite_start]and current Software Engineering student at **ITI**[cite: 9, 10].
+- [cite_start]🚀 **Open Source:** Proud **Google Summer of Code '24** alumnus with the Mifos Initiative[cite: 30].
+- [cite_start]🏗️ **Expertise:** Focused on building scalable apps using **Clean Architecture**, **Repository**, and **Unit of Work** patterns[cite: 5, 39].
+- [cite_start]💬 **Ask me about:** .NET ecosystem (C#, EF Core, LINQ), Angular, or enterprise design patterns[cite: 16, 17, 38].
+- ⚡ **Fun Fact:** I'm a coffee enthusiast who believes great code starts with a perfect cup of coffee.
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/omar-nabil-006128216/" target="_blank"><img src="https://img.shields.io/badge/Omar%20Nabil-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/Omar_Nabil_ali" target="_blank"><img src="https://img.shields.io/badge/Omar%20Nabil-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+[cite_start]<a href="https://www.linkedin.com/in/omarnabil6" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a> 
+[cite_start]<a href="https://github.com/Omar-Nabil2" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> [cite: 3]
 
+### 🛠 Tech Stack
 
-### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=black)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+**Languages & Core:**
+[cite_start]![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) [cite: 16]
+[cite_start]![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) [cite: 16]
+[cite_start]![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) [cite: 16]
+[cite_start]![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) [cite: 16]
+
+**Frameworks & Architecture:**
+[cite_start]![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white) [cite: 17]
+[cite_start]![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) [cite: 17]
+[cite_start]![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=flat&logo=dotnet&logoColor=white) [cite: 17]
+
+**Tools & Others:**
+[cite_start]![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) [cite: 17]
+[cite_start]![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) [cite: 17]
+[cite_start]![Mapster](https://img.shields.io/badge/Library-Mapster-blue?style=flat) [cite: 40]
