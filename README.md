@@ -11,31 +11,30 @@
   </a>
 </p> 
 
-- [cite_start]🎓 **Education:** Computer Engineering graduate from Tanta University [cite: 12, 13] [cite_start]and current Software Engineering student at **ITI**[cite: 9, 10].
-- [cite_start]🚀 **Open Source:** Proud **Google Summer of Code '24** alumnus with the Mifos Initiative[cite: 30].
-- [cite_start]🏗️ **Expertise:** Focused on building scalable apps using **Clean Architecture**, **Repository**, and **Unit of Work** patterns[cite: 5, 39].
-- [cite_start]💬 **Ask me about:** .NET ecosystem (C#, EF Core, LINQ), Angular, or enterprise design patterns[cite: 16, 17, 38].
+- 🎓 **Education:** Computer Engineering graduate from Tanta University and current Software Engineering student at **ITI**.
+- 🚀 **Open Source:** Proud **Google Summer of Code '24** alumnus with the Mifos Initiative.
+- 🏗️ **Expertise:** Focused on building scalable apps using **Clean Architecture**, **Repository**, and **Unit of Work** patterns.
+- 💬 **Ask me about:** .NET ecosystem (C#, EF Core, LINQ), Angular, or enterprise design patterns.
 - ⚡ **Fun Fact:** I'm a coffee enthusiast who believes great code starts with a perfect cup of coffee.
 
 ### Connect with Me :
 
-[cite_start]<a href="https://www.linkedin.com/in/omarnabil6" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a> 
-[cite_start]<a href="https://github.com/Omar-Nabil2" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> [cite: 3]
+<a href="https://www.linkedin.com/in/omarnabil6" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://github.com/Omar-Nabil2" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 ### 🛠 Tech Stack
 
 **Languages & Core:**
-[cite_start]![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) [cite: 16]
-[cite_start]![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) [cite: 16]
-[cite_start]![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) [cite: 16]
-[cite_start]![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) [cite: 16]
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 **Frameworks & Architecture:**
-[cite_start]![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white) [cite: 17]
-[cite_start]![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) [cite: 17]
-[cite_start]![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=flat&logo=dotnet&logoColor=white) [cite: 17]
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 
 **Tools & Others:**
-[cite_start]![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) [cite: 17]
-[cite_start]![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) [cite: 17]
-[cite_start]![Mapster](https://img.shields.io/badge/Library-Mapster-blue?style=flat) [cite: 40]
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
